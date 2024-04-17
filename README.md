@@ -153,10 +153,13 @@ for w, true, pred in zip(X_test[i], y_true, p[0]):
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
+![loss](https://github.com/BALA291/named-entity-recognition/assets/120717501/e46fbdb5-9d35-4eb2-97b5-1f1facb18cea)
 
-Include your plot here
+### Accuracy, Validation Accuracy Vs Iteration Plot:
+![accuracy](https://github.com/BALA291/named-entity-recognition/assets/120717501/2a42c5b5-43dd-4eb3-af05-9dda8c36511d)
 
 ### Sample Text Prediction
-Include your sample text prediction here.
+![predicted](https://github.com/BALA291/named-entity-recognition/assets/120717501/66e686f2-42b9-47cb-9349-71c609ed9cf2)
 
 ## RESULT
+Thus, an LSTM-based model for recognizing the named entities in the text is successfully developed.
